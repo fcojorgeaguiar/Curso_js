@@ -7,4 +7,4 @@ function fatorial(n){
     return fat
 }
 
-console.log(fatorial(9))
+console.log(fatorial(6))
