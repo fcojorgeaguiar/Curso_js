@@ -20,7 +20,9 @@ section{
 }
 
 select#flista{
-    width: 150px;
+    width: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 footer{
